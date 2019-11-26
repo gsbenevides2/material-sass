@@ -4,7 +4,7 @@ Serve para gerar um arquivo styles.css do Material Design Components for Web.
 - NodeJs
 - NPM ou Yarn
 - Sass CLI
-- - Para instalar a Sass CLI: `yarn global add sass`
+  - Para instalar a Sass CLI: `yarn global add sass`
 ### Instalação:
 1. Para isso faça clone o repositório:
 `git clone https://github.com/gsbenevides2/material-sass`
