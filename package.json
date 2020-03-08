@@ -1,8 +1,9 @@
 {
- "scripts":{
-	"start":"sass app.scss styles.css --load-path='./node_modules/'"
+ "scripts": {
+  "compile":"node compile.js"
  },
  "dependencies": {
-	"material-components-web": "^3.1.0"
+  "material-components-web": "^3.1.0",
+  "sass": "^1.26.2"
  }
 }
